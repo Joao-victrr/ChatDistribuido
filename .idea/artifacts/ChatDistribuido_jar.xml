@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatDistribuido:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatDistribuido_jar</output-path>
+    <root id="archive" name="ChatDistribuido.jar">
+      <element id="module-output" name="ChatDistribuido" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/byteman/byteman/4.0.20/byteman-4.0.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/byteman/byteman-bmunit/4.0.20/byteman-bmunit-4.0.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jgroups/jgroups/5.2.12.Final/jgroups-5.2.12.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/byteman/byteman-submit/4.0.20/byteman-submit-4.0.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/byteman/byteman-install/4.0.20/byteman-install-4.0.20.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
